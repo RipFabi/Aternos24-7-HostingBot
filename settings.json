@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Brokensmp-VFfb.aternos.me:12006",
+    "port": 12006,
     "version": "",
     "try-creative": false
   },
